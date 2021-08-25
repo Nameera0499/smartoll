@@ -21,11 +21,6 @@ Fig.1.1. Hardware Structure of the Project
 
 
 
-![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/2.png?raw=true)
-
-Fig.1.2. Project Banner
-
-
 ### 1.1 ABOUT THE PROJECT
 
 We have developed the project in various environments such as php, android, python, etc.
